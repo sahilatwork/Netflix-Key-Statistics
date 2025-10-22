@@ -42,6 +42,3 @@ The dashboard helps visualize **key metrics** and **growth patterns** that refle
 - Map visualization for global content distribution  
 - Trend line showing growth of Netflix content over years  
 
----
-
-## 📂 Project Structure
